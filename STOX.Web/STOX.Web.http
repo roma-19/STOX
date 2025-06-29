@@ -1,0 +1,6 @@
+@STOX.Web_HostAddress = http://localhost:5110
+
+GET {{STOX.Web_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
